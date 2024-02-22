@@ -7,4 +7,4 @@ In this repository you will be testing the gambling system and try to win big. W
 ### About this repository
 
 Must have a gambling addiction to continue.
-GUYS I GAMBLE 53$ AND LOST 😭
+- Gambling status: Lost >50$ (still gambling). pls help me 😢
