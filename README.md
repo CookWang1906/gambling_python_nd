@@ -7,8 +7,7 @@ In this repository you will be testing the gambling system and try to win big. W
 ### About this repository
 
 Must have a gambling addiction to continue. I will be trying gambling for 1 full week! I think I'm addict to it guys 😢. Started from 21/2/2024.
-- Started balance: 7.7$
-- End: 100$
+
 ### Recommendations
 
 Do not play gamble in any form or it will affect your mental health. Lowering your self-esteem, make you lost hope and make you regret your choice and want to commit sc. DO NOT PLAY IT!
