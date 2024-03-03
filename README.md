@@ -1,4 +1,4 @@
- Gambling in Python
+# Gambling in Python
 
 ![image](https://github.com/CookWang1906/gambling_python/assets/148769157/45722305-8f92-47c7-9a6a-31bb21e03b39)
 
